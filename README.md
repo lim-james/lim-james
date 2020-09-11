@@ -2,7 +2,9 @@
 
 _Hopefully one day I will become a true 10x developer..._
 
-### 😎 Skills
+---
+
+### 🚀 Skills
 
 [<code>
 <img alt="c++" width="26px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png" />
@@ -53,8 +55,7 @@ _Hopefully one day I will become a true 10x developer..._
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
 
-
-### 😊 Picking up
+### 📝 Picking up
 
 [<code>
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
@@ -66,6 +67,8 @@ _Hopefully one day I will become a true 10x developer..._
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 
+---
+
 ### ☎️ Hit me up!
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -76,7 +79,10 @@ _Hopefully one day I will become a true 10x developer..._
 
 ---
 
+### 📈 Some cool statistics
+
 ![James's github stats](https://github-readme-stats.vercel.app/api?username=lim-james&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lim-james&layout=compact&theme=synthwave)
 
 [website]: https://jameslim.com
 [instagram]: https://www.instagram.com/jamesl.im
