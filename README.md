@@ -1,6 +1,6 @@
 ## 🤙🏻 What's up! It's James.
 
-> I love shaders. OpenGL, Metal
+> I build games and game engines and I love shaders. As of this moment, I'm expanding my skills towards becoming a fullstack developer and my first step on this journey being front-end development in React. Check back here to be updated on my progress!
 
 _Hopefully one day I will become a true 10x developer..._
 
