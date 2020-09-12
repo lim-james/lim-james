@@ -2,11 +2,20 @@
 
 _Hopefully one day I will become a true 10x developer..._
 
+### ❤️ My loves
+
+_Programming does not consume me, there are plenty of other things I enjoy!_
+
+- 🍜 A nice hot bowl of tonkotsu ramen.
+- 🎧 RnB, Soul and just overall chill vibes.
+- 📸 I love shooting landscape as miniature toys.
+- 💪🏻 Got to have that pump! Mostly calisthenics.
+
 ---
 
-### 🚀 Skills
+### 🚀 Skills_
 
-_The ones I'm confident of working with._
+_The ones I'm confident with._
 
 [<code>
 <img alt="c++" width="26px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png" />
