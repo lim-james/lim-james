@@ -13,7 +13,7 @@ _Programming does not consume me, there are plenty of other things I enjoy!_
 
 ---
 
-### 🚀 Skills_
+### 🚀 Skills
 
 _The ones I'm confident with._
 
