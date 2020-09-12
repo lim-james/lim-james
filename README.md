@@ -6,6 +6,8 @@ _Hopefully one day I will become a true 10x developer..._
 
 ### 🚀 Skills
 
+_The ones I'm confident of working with._
+
 [<code>
 <img alt="c++" width="26px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png" />
 </code>](http://www.cplusplus.com/)
@@ -56,6 +58,8 @@ _Hopefully one day I will become a true 10x developer..._
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
 
 ### 📝 Picking up
+
+_Learning is forever ongoing. Here's what I'll be adding to my belt soon._
 
 [<code>
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
