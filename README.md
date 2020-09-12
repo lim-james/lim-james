@@ -75,6 +75,8 @@ _Learning is forever ongoing. Here's what I'll be adding to my belt soon._
 
 ### ☎️ Hit me up!
 
+_Want to find out more about me? Or perhaps just chat, you know where to find me!_
+
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
