@@ -36,7 +36,7 @@ _The ones I'm confident with._
 
 ### 📝 Picking up
 
-_Learning is forever ongoing. Here's what I'll be adding to my belt soon._
+_Learning is forever. Here's what I'll be adding to my belt soon._
 
 [<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />](https://reactjs.org/)
 [<img alt="kotlin" width="26px" src="https://img.icons8.com/color/240/000000/kotlin.png" />](https://kotlinlang.org/)
