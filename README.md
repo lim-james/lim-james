@@ -1,5 +1,7 @@
 ## 🤙🏻 What's up! It's James.
 
+> I love shaders. OpenGL, Metal
+
 _Hopefully one day I will become a true 10x developer..._
 
 ### ❤️ My loves
@@ -18,10 +20,12 @@ _Programming does not consume me, there are plenty of other things I enjoy!_
 _The ones I'm confident with._
 
 [<img alt="c++" width="26px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png" />](http://www.cplusplus.com/)
+[<img alt="OpenGL" width="26px" src="https://www.opengl.org/img/opengl_logo.jpg" />](https://www.opengl.org/)
 [<img alt="c" width="26px" src="https://img.icons8.com/color/240/000000/c-programming.png" />](https://en.cppreference.com/w/c/language)
 [<img alt="c#" width="26px" src="https://img.icons8.com/color/240/000000/c-sharp-logo.png" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [<img alt="unity" width="26px" src="https://img.icons8.com/ios-filled/250/000000/unity.png" />](https://unity.com/)
 [<img alt="swift" width="26px" src="https://img.icons8.com/fluent/240/000000/swift.png" />](https://developer.apple.com/swift/)
+[<img alt="metal" width="26px" src="https://developer.apple.com/assets/elements/icons/metal-2/metal-2-64x64_2x.png" />](https://developer.apple.com/metal/)
 [<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png" />](https://sass-lang.com/)
