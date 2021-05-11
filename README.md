@@ -1,8 +1,8 @@
 ## 🤙🏻 What's up! It's James.
 
-> I build games and game engines and I love shaders. As of this moment, I'm expanding my skills towards becoming a fullstack developer and my first step on this journey being front-end development in React. Check back here to be updated on my progress!
+> Sustainability is my number one priority, projects should not be rushed and organisation should not be compromised. And as a certain fictional programmer once said, "I am more concerned with being right than being fast." Check out some of my repos! Feel free to drop a star, or leave a comment for me.
 
-_Hopefully one day I will become a true 10x developer..._
+_Hopefully one day I will become a software architect..._
 
 ### ❤️ My loves
 
