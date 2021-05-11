@@ -1,10 +1,10 @@
-## 🤙🏻 What's up! It's James.
+# 🤙🏻 What's up! I'm James.
 
 > Sustainability is my number one priority, projects should not be rushed and organisation should not be compromised. And as a certain fictional programmer once said, "I am more concerned with being right than being fast." Check out some of my repos! Feel free to drop a star, or leave a comment for me.
 
 _Hopefully one day I will become a software architect..._
 
-### ❤️ My loves
+## ❤️ My loves
 
 _Programming does not consume me, there are plenty of other things I enjoy!_
 
@@ -13,9 +13,7 @@ _Programming does not consume me, there are plenty of other things I enjoy!_
 - 📸 I love shooting landscape as miniature toys.
 - 💪🏻 Got to have that pump! Mostly calisthenics.
 
----
-
-### 🚀 Skills
+## 🚀 Skills
 
 _The ones I'm confident with._
 
@@ -26,21 +24,17 @@ _The ones I'm confident with._
 [<img alt="swift" width="26px" src="https://img.icons8.com/fluent/240/000000/swift.png" />](https://developer.apple.com/swift/)
 [<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png" />](https://git-scm.com/)
 
----
-
-### ☎️ Hit me up!
+## ☎️ Hit me up!
 
 _Want to find out more about me? Or perhaps just chat, you know where to find me!_
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 
 <br/>
 
----
-
-### 📈 Some cool statistics
+## 📈 Some cool statistics
 
 ![James's github stats](https://github-readme-stats.vercel.app/api?username=lim-james&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lim-james&layout=compact&theme=synthwave)
