@@ -6,7 +6,7 @@ _Hopefully one day I will become a software architect..._
 
 ## ❤️ My loves
 
-_Programming does not consume me, there are plenty of other things I enjoy!_
+_There are plenty of other things I enjoy!_
 
 - 🍜 A nice hot bowl of tonkotsu ramen.
 - 🎧 RnB, Soul and just overall chill vibes.
