@@ -37,7 +37,6 @@ _Want to find out more about me? Or perhaps just chat, you know where to find me
 ## 📈 Some cool statistics
 
 ![James's github stats](https://github-readme-stats.vercel.app/api?username=lim-james&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lim-james&layout=compact&theme=synthwave)
 
 [website]: https://jameslim.com
 [instagram]: https://www.instagram.com/jamesl.im
