@@ -46,6 +46,6 @@ Here's what I am familiar with! It ain't much but I'm resourceful and am able to
   </tr>
 </table>
 
-
+## Do check out my pinned projects too!
 
 
