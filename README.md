@@ -1,3 +1,6 @@
+> 4 Sep 24 - Today marks the start of my journey to becoming a C++ expert.
+> This MD will be updated soon once I have gotten the basics set up!
+
 ![Sebastian passionately sharing about jazz with Mia](https://media.giphy.com/media/l3vQYfr7AHKzcEu9W/giphy.gif)
 
 # Hi, I'm James! ✨
